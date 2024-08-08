@@ -11,7 +11,8 @@ GND to GND
 ----------------------------------------
 Steuere dein Jupyter und somit das RaspberryPi aus eigenem Rechner im gleichen Netzwerk
 - Zur virtuellen Umgebung wechseln: 
-	$cd venv/source/bin/activate
+	$cd venv
+	$source bin/activate
 - Nutze den Befehl:
 	$jupyter notebook --ip <your_LAN_ip> --port 8888
 - So ermitteln Sie Ihre Ip in RaspPi Terminal: 
@@ -41,3 +42,7 @@ Schritt 2: SSH-Client auf Windows verwenden
 	$ %run your_script.ipynb
 	in meinem Fall ist das dann %run 1_LED_Morsecode.ipynb. Jetzt wird der Code auf deinem RaspPi ausgeführt.
 -----------------------------------------
+Idee: Time-Lapse-Kamera
+Ziel: Erstelle eine Kamera, die in regelmäßigen Abständen Fotos aufnimmt.
+Hardware: Raspberry Pi Kamera-Modul.
+Beschreibung: Programmiere den Raspberry Pi so, dass er in festgelegten Intervallen Fotos aufnimmt und speichert. Diese Fotos können später zu einem Zeitraffer-Video zusammengefügt werden. Ideal für Naturaufnahmen oder Projekte im Garten.
