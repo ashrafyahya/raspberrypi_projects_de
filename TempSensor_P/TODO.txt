@@ -1,3 +1,0 @@
-TODO:
-
-komplettes Projekt mit Aufbau, Schlatung, Rechnung usw. für die Steuerung von Temperatur-Sensoren mit Raspberry Pi.
