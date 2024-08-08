@@ -1,10 +1,24 @@
 Starten von Notebook auf Raspberry pi virtuelle Umgebung
 
 - Navigiere zum erstellten venv Ordner
-- sourrce bin/activate ausführen
-- note-book ausführen
+- source bin/activate ausführen
+- jupyter-notebook ausführen
 
 * Für irgendwelche Installation: BItte INternet-Verbindung nicht vergessen
 GND is Minus
 GND to GND
 + 2 +
+----------------------------------------
+Steuere dein Jupyter und somit das RaspberryPi aus eigenem Rechner im gleichen Netzwerk
+- Zur virtuellen Umgebung wechseln: 
+	$cd venv/source/bin/activate
+- Nutze den Befehl:
+	$jupyter notebook --ip <your_LAN_ip> --port 8888
+- So ermitteln Sie Ihre Ip in RaspPi Terminal: 
+	$hostname -I
+- Im eignen Rechner folgendes eingeben:
+	$http://your_LAN_ip:8888
+- Passwort eigeben, falls nicht vorhanden gib im Terminal von RaspPi folgendes:
+	$jupyter notebook password
+- Für weiteres folgendes gucken:
+	https://stackoverflow.com/questions/39155953/exposing-python-jupyter-on-lan
