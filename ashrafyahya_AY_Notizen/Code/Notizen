@@ -9,39 +9,6 @@ GND is Minus
 GND to GND
 + 2 +
 ----------------------------------------
-Steuere dein Jupyter und somit das RaspberryPi aus eigenem Rechner im gleichen Netzwerk
-- Zur virtuellen Umgebung wechseln: 
-	$cd venv
-	$source bin/activate
-- Nutze den Befehl:
-	$jupyter notebook --ip <your_LAN_ip> --port 8888
-- So ermitteln Sie Ihre Ip in RaspPi Terminal: 
-	$hostname -I
-- Im eignen Rechner folgendes eingeben:
-	$http://your_LAN_ip:8888
-- Passwort eigeben, falls nicht vorhanden gib im Terminal von RaspPi folgendes:
-	$jupyter notebook password
-- Für weiteres folgendes gucken:
-	https://stackoverflow.com/questions/39155953/exposing-python-jupyter-on-lan
-----------------------------------------
-Steuerung durch SSH Verbindung  
-Schritt 1: SSH auf dem Raspberry Pi aktivieren  
-- Verbinden Sie sich direkt mit Ihrem Raspberry Pi (Monitor und Tastatur) oder greifen Sie über ein anderes Medium zu.  
-- Öffnen Sie das Terminal und geben Sie ein:  
-	$ sudo raspi-config  
-- Navigieren Sie zu Interfacing Options > SSH und wählen Sie Enable.  
-Schritt 2: SSH-Client auf Windows verwenden  
-- CMD öfnnen  
-- Folgendes im Terminal bzw. im CMD eingeben  
-	$ ssh <username>@<raspPi-IP>  
-	in meinem Fall ist das ssh ashraf@192.168.0.104  
-- Passwort eingeben  
-- Navigiere zu deinem Note-Book
-- Folgendes im Terminal bzw. im CMD eingeben
-	$ ipython
-	$ %run your_script.ipynb
-	in meinem Fall ist das dann %run 1_LED_Morsecode.ipynb. Jetzt wird der Code auf deinem RaspPi ausgeführt.
------------------------------------------
 Idee: Time-Lapse-Kamera
 Ziel: Erstelle eine Kamera, die in regelmäßigen Abständen Fotos aufnimmt.
 Hardware: Raspberry Pi Kamera-Modul.
