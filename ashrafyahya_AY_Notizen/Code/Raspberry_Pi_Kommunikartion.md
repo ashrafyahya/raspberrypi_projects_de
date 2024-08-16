@@ -29,7 +29,7 @@ Gehen Sie die folgenden Schritten durch.
 
 - Zur virtuellen Umgebung wechseln, indem Sie im Terminal folgendes eingeben:  
 	```cd venv```  
-	$source bin/activate  
+	$```source bin/activate```  
 - Nutze den Befehl für die Freigabe im Netzwerk:  
 	```jupyter notebook --ip <your_LAN_ip> --port 8888```  
 - So ermitteln Sie Ihre Ip in RaspPi Terminal:  
