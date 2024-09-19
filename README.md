@@ -24,11 +24,11 @@ Die Studienarbeit besteht aus insgesamt sechs Projekten, die jeweils unterschied
 4. **Projekt 4: Temperatursensor zusammen mit Buzeer und LED**  
    Das Ziel dieses Projekts ist es, eine LED und einen Buzzer basierend auf der Temperaturüberwachung eines BME680-Sensors zu steuern und bei bestimmter Temperatur ein SOS-Signal zu senden.
 
-5. **Projekt 5: Titel**  
-   Beschreibung...
+5. **Projekt 5: LED Display**  
+   In diesem Projekt wird es versucht, unterschiedliche Muster auf einen 8*8 LED Matrix mit Hilfe des Freenove Projects Kit for Raspberry Pi zeigen zu lassen.
 
-6. **Projekt 6: Titel**  
-   Beschreibung...
+6. **Projekt 6: Motion Sensor**  
+   In diesem Projekt wird es versucht, Bewegung mit HC-SR 501 Sensor zu detektieren und die Detektion der Bewegung mit einer blinkenden LED mit Hilfe des Freenove Projects Kit for Raspberry Pi zeigen zu lassen. 
 
 ## Ziel der Studienarbeit  
 Ziel dieser Studienarbeit ist es, die Grundlagen der Elektronik und Programmierung mit dem Raspberry Pi zu vermitteln. Jedes Projekt ist darauf ausgelegt, ein tieferes Verständnis für die jeweiligen elektronischen Komponenten und deren Anwendung in realen Projekten zu vermitteln.
@@ -36,4 +36,4 @@ Ziel dieser Studienarbeit ist es, die Grundlagen der Elektronik und Programmieru
 ## Autoren
 
 - **Ashraf Yahya (AY)**
-- **Ahmad Faiz (AF)**  
+- **Ahmad Sajad Faiz (AF)**  
