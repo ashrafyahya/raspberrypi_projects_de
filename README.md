@@ -12,22 +12,22 @@ Die Studienarbeit besteht aus insgesamt sechs Projekten, die jeweils unterschied
 
 ## Projekte
 
-1. **Projekt 1: LED-Steuerung**  
+1. **Projekt 1: LED-Steuerung(Gemeinsam)**  
    Steuerung von LEDs mit PWM-Signalen auf dem Raspberry Pi.
 
-2. **Projekt 2: Temperatursensor**  
+2. **Projekt 2: Temperatursensor(Gemeinsam)**  
    Messung der Umgebungstemperatur mit einem Sensor und Ausgabe der Daten in Echtzeit, sowie mit Matplotlip-Bibliothek als Diagramm.
 
-3. **Projekt 3: Servo Motor**  
+3. **Projekt 3: Servo Motor(YAHYA)**  
    Bewegung vom Servo je nach Angabe von Winkel zwischen 0 und 180 grad. Das Ziel dieses Projekts ist es, einen Servomotor mit einem Raspberry Pi zu steuern und dabei die Prinzipien der Pulsweitenmodulation (PWM) anzuwenden.
 
-4. **Projekt 4: Temperatursensor zusammen mit Buzeer und LED**  
+4. **Projekt 4: Temperatursensor zusammen mit Buzeer und LED(YAHYA)**  
    Das Ziel dieses Projekts ist es, eine LED und einen Buzzer basierend auf der Temperaturüberwachung eines BME680-Sensors zu steuern und bei bestimmter Temperatur ein SOS-Signal zu senden.
 
-5. **Projekt 5: Titel**  
+5. **Projekt 5: Titel (FAIZ)**  
    Beschreibung...
 
-6. **Projekt 6: Titel**  
+6. **Projekt 6: Titel (FAIZ)**  
    Beschreibung...
 
 ## Ziel der Studienarbeit  
