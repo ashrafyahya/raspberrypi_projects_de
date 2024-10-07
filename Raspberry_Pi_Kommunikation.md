@@ -1,4 +1,4 @@
-# Kommunikartion mit Raspberry Pi
+# Kommunikation mit Raspberry Pi
 
 ## Steuerung durch SSH Verbindung  
 
