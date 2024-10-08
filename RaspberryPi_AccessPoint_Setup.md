@@ -148,6 +148,7 @@ sudo sysctl -w net.ipv4.ip_forward=1
 Um die Internetverbindung über das Ethernet-Interface `eth0` zu teilen, fügen wir eine Regel für `iptables` hinzu:
 
 ```bash
+sudo apt install iptables
 sudo iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE
 ```
 
