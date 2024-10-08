@@ -190,3 +190,5 @@ Wenn alles richtig konfiguriert ist, solltest du nun über den Raspberry Pi eine
 ---
 
 **Hinweis:** Du kannst den WLAN-Namen (`ssid`) und das Passwort in der Datei `/etc/hostapd/hostapd.conf` jederzeit ändern, falls gewünscht.
+
+https://www.elektronik-kompendium.de/sites/raspberry-pi/2002171.htm
