@@ -29,9 +29,10 @@ Gehen Sie die folgenden Schritten durch.
 
 - Zur virtuellen Umgebung wechseln, indem Sie im Terminal folgendes eingeben:  
 	```cd venv```  
-	$```source bin/activate```  
+	```source bin/activate```  
 - Nutze den Befehl für die Freigabe im Netzwerk:  
 	```jupyter notebook --ip <your_LAN_ip> --port 8888```  
+		in meinem Fall ist das jupyter notebook --ip 192.168.0.104 --port 8888  
 - So ermitteln Sie Ihre Ip in RaspPi Terminal:  
 	```hostname -I```  
 - Im eignen Rechner in Browser folgendes eingeben:  
@@ -57,5 +58,6 @@ Gehen Sie bitte die folgenden Schritte durch:
 	```jupyter notebook --ip <your_LAN_ip> --port 8888```  
 - Im eignen Rechner in Browser folgendes eingeben:  
 	```http://your_LAN_ip:8888```  
+		in meinem Fall ist das http://192.168.0.104:8888  
 --------------------------------------------------------------------  
 **Vergewissen Sie sich, dass die virtuelle Umgebung venv heißt oder passen Sie anhand dessen die obigen Schritte.** 
