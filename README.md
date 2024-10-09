@@ -21,7 +21,7 @@ Die Studienarbeit besteht aus insgesamt sechs Projekten, die jeweils unterschied
 3. **Projekt 3: Servo Motor(YAHYA)**  
    Bewegung vom Servo je nach Angabe von Winkel zwischen 0 und 180 grad. Das Ziel dieses Projekts ist es, einen Servomotor mit einem Raspberry Pi zu steuern und dabei die Prinzipien der Pulsweitenmodulation (PWM) anzuwenden.
 
-4. **Projekt 4: Temperatursensor zusammen mit Buzeer und LED(YAHYA)**  
+4. **Projekt 4: Temperatursensor mit Buzeer und LED(YAHYA)**  
    Das Ziel dieses Projekts ist es, eine LED und einen Buzzer basierend auf der Temperaturüberwachung eines BME680-Sensors zu steuern und bei bestimmter Temperatur ein SOS-Signal zu senden.
 
 5. **Projekt 5: DEBO SENS 9AXIS Sensor(YAHYA)**
