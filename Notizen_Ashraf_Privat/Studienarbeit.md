@@ -1,3 +1,17 @@
+# Done
+- Accesspoint Anleitung erstellen
+- Matplotlib livepunkte in extra Datei anzeigen
+- LED Projekt Sensor/Aktoren in Tabelle anzeigen
+- Code für Blinken kommentieren
+- Videos als Links zu neuenm Fenster
+- PopUp für Lösungen
+- Neues Notebook für 9AXIS
+
+# WIP
+- Tem Projekt: Übung zu max Versorgungsspannug: 		----
+- In Datenblatt nach Strom für les rot als Übung suchen
+
+# Final
 - Deckblatt  un dVerzeichniss erstellen
 - Alle Notebooks in PDFs ausdrucken
 - Studienarbeit präsentieren
@@ -6,18 +20,5 @@
 - In Einleitung Werbung für Jupyter angeben
 
 - Readme um Anleitung für die Studienarbeit erweitern
-
-- Accesspoint Anleitung erstellen:				Done
-- Matplotlib livepunkte in extra Datei anzeigen: 		Done
-- LED Projekt Sensor/Aktoren in Tabelle anzeigen: 		Done
-- Code für Blinken kommentieren: 				Done
-- Videos als Links zu neuenm Fenster : Done
-
-- Tem Projekt: Übung zu max Versorgungsspannug: 		----
-- PopUp für Lösungen: 						----
-- Neues Notebook:						WIP
-
-
-- In Datenblatt nach Strom für les rot als Übung suchen
 
 
