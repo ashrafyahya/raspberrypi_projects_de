@@ -10,15 +10,15 @@
 # WIP
 - Tem Projekt: Übung zu max Versorgungsspannug: 		----
 - In Datenblatt nach Strom für les rot als Übung suchen
-
-# Final
 - Deckblatt  un dVerzeichniss erstellen
-- Alle Notebooks in PDFs ausdrucken
-- Studienarbeit präsentieren
 - Fazit und Zusammenfassung zur Studienarbeit erstellen
 - Literaturverzeichni: Links in Notebooks eingefügt: erwähnen
 - In Einleitung Werbung für Jupyter angeben
-
 - Readme um Anleitung für die Studienarbeit erweitern
+
+# Final
+- Alle Notebooks in PDFs ausdrucken
+- Studienarbeit präsentieren
+
 
 
