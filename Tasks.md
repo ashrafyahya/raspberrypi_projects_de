@@ -7,10 +7,10 @@
 - Videos als Links zu neuenm Fenster
 - PopUp für Lösungen
 - Neues Notebook für 9AXIS
+- In Datenblatt nach Strom für les rot als Übung suchen
 
 **WIP**
 - Tem Projekt: Übung zu max Versorgungsspannug
-- In Datenblatt nach Strom für les rot als Übung suchen
 
 
 

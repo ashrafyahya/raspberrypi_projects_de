@@ -1,0 +1,29 @@
+lewentz@hs-koblenz.de
+
+TemSensor
+Links zu jedem Begriff da wo es zum ersten Mal auftaucht.
+
+Wie viele PINs braucht man für i2c? wo zu finden?
+Beim Klicken Lösung anzeigen
+
+HardwareAufbau ordnungsgemäß mit Strom Versorgung? noch klarer
+Genauere Bezeichnung zu Rasp 5
+
+Notebook für grund imnstallation und dann verlinken
+
+spezielle installation kann direkt aufgerufen wird
+als code einfügen
+
+Blick zu Bibliotheken wie adafruit, busio...
+Übung für tempsensor in einer liste speicherm selbst machen.
+Beispiel mit selbst erstellte liste, Beispiel mit Object
+
+Immer zwei drei sätze schreiben, da wo es einen überschrifft gibt.
+
+Wie sollen die Schüler die Lösung vorzeigen? Werte für Mittelwerte eingeben und endergebniss.
+konkreter formulieren
+in statistics bibliothek gibt es andere funktionen wie mean.. aufgabe zu weiteren Funktionen.
+
+Link für die Offset der Umgebungstemperatur
+
+code für matplotlip in einer funktion speichern und später einfach aufrufen.
