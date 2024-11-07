@@ -15,14 +15,14 @@
 
 
 # Final
+- Deckblatt  und Verzeichniss erstellen
+- Literaturverzeichni: Links in Notebooks eingefügt: erwähnen
+- Fazit und Zusammenfassung zur Studienarbeit erstellen
+- In Einleitung Werbung für Jupyter angeben
+- Readme um Anleitung für die Studienarbeit erweitern
 **Done**
 
 **WIP**
-- Deckblatt  un dVerzeichniss erstellen
-- Fazit und Zusammenfassung zur Studienarbeit erstellen
-- Literaturverzeichni: Links in Notebooks eingefügt: erwähnen
-- In Einleitung Werbung für Jupyter angeben
-- Readme um Anleitung für die Studienarbeit erweitern
 - Alle Notebooks in PDFs ausdrucken
 - Studienarbeit präsentieren
 
