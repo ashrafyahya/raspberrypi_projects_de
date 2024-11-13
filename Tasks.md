@@ -8,9 +8,9 @@
 - PopUp für Lösungen
 - Neues Notebook für 9AXIS
 - In Datenblatt nach Strom für les rot als Übung suchen
+- Tem Projekt: Übung zu max Versorgungsspannug
 
 **WIP**
-- Tem Projekt: Übung zu max Versorgungsspannug
 
 
 
