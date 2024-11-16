@@ -1,6 +1,6 @@
 # Studienarbeit mit dem Raspberry Pi 5
 
-Diese Studienarbeit beschäftigt sich mit der praktischen Anwendung von Jupyter Notebooks auf dem Raspberry Pi 5 zur Steuerung verschiedener elektronischer Komponenten und Schaltungen. Die Arbeit ist in sieben verschiedene Projekte gegliedert, die jeweils unterschiedliche Aspekte der Hardwaresteuerung und Datenerfassung abdecken. Ziel dieser Studienarbeit ist es, ein tiefes Verständnis für die grundlegende Elektronik und die Programmiermöglichkeiten mit dem Raspberry Pi zu vermitteln und dabei den Einsatz von Jupyter Notebooks als Entwicklungs- und Dokumentationsumgebung zu nutzen.
+Diese Studienarbeit beschäftigt sich mit der praktischen Anwendung von Jupyter Notebooks auf dem Raspberry Pi 5 zur Steuerung verschiedener elektronischer Komponenten und Schaltungen. Die Arbeit ist in sieben verschiedene Projekte gegliedert, die jeweils unterschiedliche Aspekte der Hardwaresteuerung und Datenerfassung abdecken. Das Ziel ist es, ein tiefes Verständnis für die grundlegende Elektronik und die Programmiermöglichkeiten mit dem Raspberry Pi zu vermitteln und dabei den Einsatz von Jupyter Notebooks als Entwicklungs- und Dokumentationsumgebung zu nutzen.
 
 Die Studienarbeit deckt folgende Hauptthemen ab:
 - **LED-Steuerung und PWM (Pulsweitenmodulation):** Wie einfache elektrische Komponenten über GPIO (General Purpose Input/Output) gesteuert werden können.
@@ -59,7 +59,7 @@ Diese Aufteilung ermöglicht es, die verschiedenen Fähigkeiten und Interessen d
     
 
 ## Allgemeine Notebooks
-- **Einführung in Freenove Kit.ipynb**: 
+- **[Einführung in Freenove Kit.ipynb](Einführung%20in%20Freenove%20Kit.ipynb)**: 
 Einführung in die Nutzung des Freenove Kits, das in verschiedenen Projekten zur Steuerung und Sensorik verwendet wird.  
 
 - **[Einführung in Matplotlib.ipynb](Einführung%20in%20Matplotlib.ipynb)**: 
