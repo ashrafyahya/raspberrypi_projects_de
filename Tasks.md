@@ -11,7 +11,7 @@
 - Tem Projekt: Übung zu max Versorgungsspannug
 
 **WIP**
-
+---
 
 
 # Final
@@ -21,9 +21,9 @@
 - Fazit und Zusammenfassung zur Studienarbeit erstellen
 - In Einleitung Werbung für Jupyter angeben
 - Readme um Anleitung für die Studienarbeit erweitern
+- Alle Notebooks in PDFs ausdrucken
 
 **WIP**
-- Alle Notebooks in PDFs ausdrucken
 - Studienarbeit präsentieren
 
 
