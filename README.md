@@ -9,16 +9,6 @@ Die Arbeit deckt folgende Hauptthemen ab:
 - **Komplexe Sensorik:** Erfassung und Auswertung von Daten eines 9-Achsen-Sensors.
 
 
-## Überblick
-
-Die Projekte wurden von Ashraf Yahya (AY) und Ahmad Sajad Faiz (AF) gemeinsam entwickelt, wobei sie sich jeweils auf bestimmte Teilprojekte konzentriert haben:
-- **Gemeinsame Projekte:** [LED-Steuerung](./LED_Projekt/LED_Projekt.ipynb) und [Temperatursensor](./TempSensor_Projekt/TemperaturSensor_Projekt.ipynb)
-- **Projekte von Ashraf Yahya:** [Servo Motor](./ServoMotor_Projekt/ServoMotor_Projekt.ipynb), [Temperatursensor mit Buzzer und LED](./BME680_Buzzer_LED_Projekt/Raspberry_Pi_LED_Buzzer_BME680_Notebook.ipynb) und [DEBO SENS 9AXIS Sensor](./DEBO_SENS_9AXIS/DEBO_SENS_9AXIS_Sensor_Notebook.ipynb) als extra Aufgabe
-- **Projekte von Ahmad Sajad Faiz:** [LED Display](./LED_Display/LED_Disp.ipynb) und [Motion Sensor](./Motion_Sensor/MotionSensor.ipynb)
-
-Diese Aufteilung ermöglicht es, die verschiedenen Fähigkeiten und Interessen der Autoren zur Geltung zu bringen und ihre jeweiligen Ansätze zur Lösung technischer Herausforderungen zu dokumentieren.
-
-
 ## Projekte
 
 1. **Projekt 1: [LED-Steuerung](./LED_Projekt/LED_Projekt.ipynb) (Gemeinsam)**  
