@@ -1,8 +1,8 @@
-# Studienarbeit mit dem Raspberry Pi 5
+# Projekte mit dem Raspberry Pi 5
 
-Diese Studienarbeit beschäftigt sich mit der praktischen Anwendung von Jupyter Notebooks auf dem Raspberry Pi 5 zur Steuerung verschiedener elektronischer Komponenten und Schaltungen. Die Arbeit ist in sieben verschiedene Projekte gegliedert, die jeweils unterschiedliche Aspekte der Hardwaresteuerung und Datenerfassung abdecken. Das Ziel ist es, ein tiefes Verständnis für die grundlegende Elektronik und die Programmiermöglichkeiten mit dem Raspberry Pi zu vermitteln und dabei den Einsatz von Jupyter Notebooks als Entwicklungs- und Dokumentationsumgebung zu nutzen.
+Diese Arbeit beschäftigt sich mit der praktischen Anwendung von Jupyter Notebooks auf dem Raspberry Pi 5 zur Steuerung verschiedener elektronischer Komponenten und Schaltungen. Die Arbeit ist in sieben verschiedene Projekte gegliedert, die jeweils unterschiedliche Aspekte der Hardwaresteuerung und Datenerfassung abdecken. Das Ziel ist es, ein tiefes Verständnis für die grundlegende Elektronik und die Programmiermöglichkeiten mit dem Raspberry Pi zu vermitteln und dabei den Einsatz von Jupyter Notebooks als Entwicklungs- und Dokumentationsumgebung zu nutzen.
 
-Die Studienarbeit deckt folgende Hauptthemen ab:
+Die Arbeit deckt folgende Hauptthemen ab:
 - **LED-Steuerung und PWM (Pulsweitenmodulation):** Wie einfache elektrische Komponenten über GPIO (General Purpose Input/Output) gesteuert werden können.
 - **Temperatur- und Bewegungssensorik:** Erfassung und Visualisierung von Umweltdaten in Echtzeit mit Matplotlib.
 - **Servomotorsteuerung:** Verwendung der PWM-Technik zur präzisen Steuerung von Motoren.
@@ -82,11 +82,11 @@ Anleitung zur Konfiguration des Raspberry Pi als Access Point, um eine drahtlose
 
 
 
-## Ziel der Studienarbeit  
+## Ziel der Arbeit  
 
-Das Ziel dieser Studienarbeit ist es, die Grundlagen der Elektronik, Sensortechnik und Aktorsteuerung auf dem Raspberry Pi zu vermitteln. Jedes Projekt wurde so gestaltet, dass es praktische Erfahrungen in der Arbeit mit elektronischen Komponenten bietet und einen fundierten Einstieg in die Entwicklung und Umsetzung von IoT-Anwendungen gibt. Zudem wird der Einsatz von Jupyter Notebooks als effektives Werkzeug für die Dokumentation und Ausführung von Code hervorgehoben.
+Das Ziel dieser Arbeit ist es, die Grundlagen der Elektronik, Sensortechnik und Aktorsteuerung auf dem Raspberry Pi zu vermitteln. Jedes Projekt wurde so gestaltet, dass es praktische Erfahrungen in der Arbeit mit elektronischen Komponenten bietet und einen fundierten Einstieg in die Entwicklung und Umsetzung von IoT-Anwendungen gibt. Zudem wird der Einsatz von Jupyter Notebooks als effektives Werkzeug für die Dokumentation und Ausführung von Code hervorgehoben.
 
-Die Studienarbeit kann sowohl als Grundlage für Einsteiger in die Elektronik als auch als Referenz für fortgeschrittene Anwender dienen, die Interesse an IoT-Projekten und der Arbeit mit dem Raspberry Pi haben.
+Die Arbeit kann sowohl als Grundlage für Einsteiger in die Elektronik als auch als Referenz für fortgeschrittene Anwender dienen, die Interesse an IoT-Projekten und der Arbeit mit dem Raspberry Pi haben.
 
 ## Autoren
 
